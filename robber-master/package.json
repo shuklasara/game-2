@@ -1,0 +1,15 @@
+{
+  "name": "robber",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "restify": "latest",
+    "step": "latest",
+    "bunyan": "latest",
+		"mongodb": "latest"
+  }
+}
+
